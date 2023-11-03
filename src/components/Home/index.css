@@ -1,0 +1,38 @@
+/* Write your CSS code here */
+.home-app {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding-left: 50px;
+  padding-top: 70px;
+  align-items: center;
+}
+
+.home-container {
+  width: 50vw;
+}
+
+.clothes_image {
+  width: 30vw;
+  height: 50vh;
+}
+
+.heading {
+  color: #1e293b;
+  font-size: 30px;
+  width: 20vw;
+}
+
+.description {
+  color: #0b69ff;
+  width: 40vw;
+}
+
+.shop_now {
+  background-color: #0967d2;
+  border: 0px solid transparent;
+  padding: 8px;
+  border-radius: 10px;
+  width: 100px;
+  color: white;
+}
